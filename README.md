@@ -1,4 +1,4 @@
-# Keylogger Wordpress
+# Wordpress Keylogger
 Wordpress Keylogger for Credential Hijacking, Malicious code input into wp-login.php
 
 ## wp-login Keylogger.php
