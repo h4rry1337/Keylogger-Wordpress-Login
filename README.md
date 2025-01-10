@@ -1,5 +1,5 @@
 # Wordpress Keylogger
-Wordpress Login Keylogger for Credential Hijacking, Malicious code input into wp-login.php
+Simple Wordpress Login Keylogger for Credential Hijacking, Malicious code input into wp-login.php
 <div>
     <img src="https://imgur.com/F3jqa90.png" width=300px height=250>
 </div>
