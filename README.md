@@ -1,4 +1,5 @@
 # Wordpress Keylogger
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pTNrmuH" data-context="false" ><a href="//imgur.com/a/pTNrmuH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 Wordpress Login Keylogger for Credential Hijacking, Malicious code input into wp-login.php
 
 ## wp-login Keylogger.php
