@@ -1,8 +1,5 @@
 # Wordpress Keylogger
 Simple Wordpress Login Keylogger for Credential Hijacking, Malicious code input into wp-login.php
-<div>
-    <img src="https://imgur.com/F3jqa90.png" width=300px height=250>
-</div>
 
 ## wp-login keylogger.php
 Malicious code to steal credentials in the middle of a login attempt, add it to your wp-config.php and change whatever is necessary, default name of the file with the credentials is: wp-keylogger.log
